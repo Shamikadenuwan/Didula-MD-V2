@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Paste Your PRABATH-MD session",
+            "description": "PRABATH-MD~gnlmBBST#X7XW8xcNRtAi2HZGZFgIY6Y17pOIAw7B_CqIXreSmgwn",
             "required": true,
             "value": ""
         }
