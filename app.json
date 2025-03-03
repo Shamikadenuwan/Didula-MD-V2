@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "PRABATH-MD~gnlmBBST#X7XW8xcNRtAi2HZGZFgIY6Y17pOIAw7B_CqIXreSmgwn",
+            "description": "PRABATH-MD~gnlmBBST#X7XW8xcNRtAi2HZGZFgIY6Y17pOIAw7B_CqIXreSmgw",
             "required": true,
             "value": ""
         }
